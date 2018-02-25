@@ -1,2 +1,2 @@
 # LinkedList
-LinkedList problems
+Includes several problems based on LinkedList concepts.
